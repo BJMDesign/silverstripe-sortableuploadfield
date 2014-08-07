@@ -1,0 +1,8 @@
+{
+	"name": "BJMDesign/sortableuploadfield",
+	"version":"0.1.0",
+	"source": {
+		"url":"git@github.com:BJMDesign/silverstripe-sortableuploadfield.git",
+		"type":"git"
+	}
+}
